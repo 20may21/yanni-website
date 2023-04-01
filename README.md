@@ -1,2 +1,2 @@
 # yanni-website
-Personnal Website
+Personal Website
